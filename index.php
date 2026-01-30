@@ -258,7 +258,7 @@
 
 <!-- ================= CONTACT ================= -->
 <section id="contact" class="contact">
-    <h3>Bog‘lanish!</h3>
+    <h3>Bog‘lanish</h3>
     <p>Telefon: <strong>+998 90 874-86-767</strong></p>
     <p>Manzil: Xorazm viloyati, Xonqa tumani</p>
     <form action="mailto:hojiakbar.mashariibov@gmail.com" method="post" enctype="text/plain">
