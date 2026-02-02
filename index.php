@@ -1,7 +1,7 @@
 <?php
 // index.php - John's Portfolio
 
-$name = "Mashariibov";
+$name = "Mashariibovv";
 $location = "uzbekistan";
 $email = "john@example.com";
 $title = "PHP / Laravel Developer";
