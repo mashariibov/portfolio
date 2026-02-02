@@ -2,7 +2,7 @@
 // index.php - John's Portfolio
 
 $name = "Mashariibov";
-$location = "Los Angeles";
+$location = "uzbekistan";
 $email = "john@example.com";
 $title = "PHP / Laravel Developer";
 $bio = "Passionate developer crafting elegant solutions with clean code. Specialized in building scalable web applications with Laravel and modern PHP practices.";
